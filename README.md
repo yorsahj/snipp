@@ -1,2 +1,1 @@
-# snipp
-useful c++ snippets
+
